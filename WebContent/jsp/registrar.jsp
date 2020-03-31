@@ -112,51 +112,6 @@
 	</div>
 
 
-<!-- 
 
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Registrar Artículo</title>
-</head>
-<body>
-	<h1>Registrar Artículo</h1>
-	<form action="adminArticulo?action=register" method="post">
-		<table border="1" align="center">
-		<tr>
-			<td>Id:</a></td>		
-			<td><input type="text" name="id"/></td>	
-		</tr>
-		<tr>
-			<td>Código:</a></td>		
-			<td><input type="text" name="codigo"/></td>	
-		</tr>
-		<tr>
-			<td>Nombre:</a></td>		
-			<td><input type="text" name="nombre"/></td>	
-		</tr>
-		<tr>
-			<td>Descripción:</a></td>		
-			<td><input type="text" name="descripcion"/></td>	
-		</tr>
-		<tr>
-			<td>Cantidad:</a></td>		
-			<td><input type="text" name="existencia"/></td>	
-		</tr>
-		<tr>
-			<td>Precio:</a></td>		
-			<td><input type="text" name="precio"/></td>	
-		</tr>		
-		
-	</table>
-	<br>
-	<table border="0" align="center">
-		<tr>
-		<td><input type="submit" value="Agregar" name="agregar"></td>	
-		</tr>
-	
-	</form>
-</body>
-</html>
-
--->
 </body>
 </html>
